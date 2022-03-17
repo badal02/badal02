@@ -1,7 +1,7 @@
 # welcome
 
 - 👋 Hi, I’m badal khatiwara.
-- 🎓 I'm currently pursuing my Degree in B.Tech CSE
+- 🎓 I'm currently pursuing BTech CSE.
 - 🧑🏽‍💻 I love to learn and I am totally into technology.
 - 📷 Kind of into photography and travel filmmaking.
 - 📫 You can reach me out and check my journey in Instagram - [@badal.02](https://www.instagram.com/badal.02) 
