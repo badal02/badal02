@@ -10,7 +10,7 @@
 
 <p align="center">
  <a href="https://twitter.com/Badal21032564" target="_blank">
-  <img src="https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook&logoColor=4267B2" alt="badal's Twitter" />     
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="badal's Twitter" />     
  </a>
  <a href="https://www.instagram.com/badal.02/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyashC's Instagram" width="40" height="40" />    
