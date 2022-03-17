@@ -74,3 +74,32 @@
      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40"
             height="40" /> </a>
+ 
+ ## GitHub Stats ##
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=badal02&style=flat-square@color=yellow" alt="badal's Profile Views" width="220" height="40"/> </p>
+<p align="center">@badal02's Profile Visits</p>
+
+<br />
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=badal02&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&fire=FFCB2B" alt="badal's GitHub Streaks"/> </p>
+<p align="center">@badal02's GitHub Streaks</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=badal02&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="badal's GitHub Stats" />
+</p>
+<p align="center">@badal02's GitHub Stats</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badal02&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="badal's Top GitHub Languages" />
+</p>
+<p align="center">@badal02's GitHub Languages</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=badal02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="badal's GitHub Contribution Graph" />
+</p>
+<p align="center">@badal02's GitHub Contribution Graph</p>
