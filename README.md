@@ -103,3 +103,8 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=badal02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="badal's GitHub Contribution Graph" />
 </p>
 <p align="center">@badal02's GitHub Contribution Graph</p>
+  
+  ## GitHub Trophies ##
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=badal02&row=2&column=4&theme=darkhub" alt="badal's GitHub Trophies" /></p>
+<p align="center">@badal02's GitHub Trophies</p>
