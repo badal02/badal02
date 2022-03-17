@@ -25,11 +25,12 @@
  </a>
  <a href="https://discord.com/users/penguin.in.the.house#8886" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="badal's Discord"  width="40" height="40"/>
+ </a>
   
   </br>
 
-
-## Languages and Tools: ##
+ 
+ ## Languages and Tools: ##
 
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img
