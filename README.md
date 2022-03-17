@@ -20,7 +20,7 @@
  </a>
  
  <a href="https://www.linkedin.com/in/badal-khatiwara-6b7866222/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="divyashC's LinkedIn"  width="40" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="badal's LinkedIn"  width="40" height="40"/>    
  </a>
  <a href="https://discord.com/users/penguin.in.the.house#8886" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="divyashC's Discord"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="badal's Discord"  width="40" height="40"/>
