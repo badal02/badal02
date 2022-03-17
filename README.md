@@ -1,10 +1,11 @@
 # welcome
 
 - 👋 Hi, I’m badal khatiwara.
-- 👀 I’m a Geek who is also interested in Photography/Videography
-- 🌱 I am familiar with C, C++, HTML, CSS, JavaScript, Ruby, Python, Dart and a little of C#
-- 📫 You can reach me out in Instagram - [@badal.02](https://www.instagram.com/badal.02) 
 - 🎓 I'm currently pursuing my Degree in B.Tech CSE
+- 🧑🏽‍💻 I love to learn and I am totally into technology.
+- 📷 Kind of into photography and travel filmmaking.
+- 📫 You can reach me out and check my journey in Instagram - [@badal.02](https://www.instagram.com/badal.02) 
+
 
 ## Get in touch with me on: ##
 
