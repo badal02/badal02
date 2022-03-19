@@ -1,4 +1,4 @@
-<h1 align="center">![coding gif](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)></h1>
+<img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="GIF" align="center"/>
 
 <h1 align="center">Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
