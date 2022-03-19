@@ -16,11 +16,7 @@
  <a href="https://www.instagram.com/badal.02/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyashC's Instagram" width="40" height="40" />    
  </a>
- <a href="https://github.com/badal02/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="badal's github"  width="40" height="40"/>    
- </a>
- 
- <a href="https://www.linkedin.com/in/badal-khatiwara-6b7866222/" target="_blank">
+  <a href="https://www.linkedin.com/in/badal-khatiwara-6b7866222/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="badal's LinkedIn"  width="40" height="40"/>    
  </a>
  <a href="https://discord.com/users/penguin.in.the.house#8886" target="_blank">
@@ -45,9 +41,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="JavaScript" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="Bootstrap" width="40" height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"
             height="40" /> </a>
@@ -60,8 +53,14 @@
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40"
             height="40" /> </a>
+    <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="Bootstrap" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" width="40"
+            height="40" /> </a>
+    <a href="https://www.ubuntu.com" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40"
             height="40" /> </a>
      <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="PhotoShop" width="40"
@@ -69,6 +68,7 @@
      <a href="https://www.adobe.com/products/premiere.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"
             height="40" /> </a>
+     
  
  ## GitHub Stats ##
 
