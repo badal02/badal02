@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m badal khatiwara.
 - 🎓 I'm currently pursuing BTech CSE.
-- 🧑🏽‍💻 I love to learn and I am totally into technology.
-- 📷 Kind of into photography and travel filmmaking.
+- 🧑🏽‍💻 I'm passionate about technology and always free to learn and stay updated about the tech world.
+- 📷 Interested in travelling, photography and filmmaking.
 - 📫 You can reach me out and check my journey in Instagram - [@badal.02](https://www.instagram.com/badal.02) 
 
 
@@ -33,6 +33,9 @@
  ## Languages and Tools: ##
 
 <p align="center">
+    <a href="https://www.visualstudio.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40"
+             height="40" /> </a>   
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="HTML" width="40" height="40" /> </a>
@@ -58,25 +61,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40"
             height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" width="40"
             height="40" /> </a>
-     <a href="https://www.vim.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40"
-            height="40" /> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Xd" width="40"
-            height="40" /> </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40"
-            height="40" /> </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="PhotoShop" width="40"
             height="40" /> </a>
      <a href="https://www.adobe.com/products/premiere.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"
-            height="40" /> </a>
-     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40"
             height="40" /> </a>
  
  ## GitHub Stats ##
