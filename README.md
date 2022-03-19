@@ -1,3 +1,5 @@
+[coding gif](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+
 # welcome
 
 - 👋 Hi, I’m badal khatiwara.
