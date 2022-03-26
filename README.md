@@ -12,7 +12,7 @@
 - 🎓 I'm currently pursuing BTech CSE.
 - 🧑🏽‍💻 I'm passionate about technology and always free to learn and stay updated about the tech world.
 - 📷 Interested in travelling, photography and filmmaking.
-- 📫 You can reach me out and check my journey in Instagram - [@badal.02](https://www.instagram.com/badal.02) 
+- 📫 You can reach me out and check my journey in Likedin - [@Badal](https://www.linkedin.com/in/badal-khatiwara-6b7866222/) 
 
 
 ## Get in touch with me on: ##
