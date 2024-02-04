@@ -18,9 +18,6 @@
 ## Get in touch with me on: ##
 
 <p align="center">
- <a href="https://twitter.com/Badal21032564" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="badal's Twitter" width="40" height="40" />     
- </a>
   <a href="https://www.linkedin.com/in/badal-khatiwara-6b7866222/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="badal's LinkedIn"  width="40" height="40"/>    
  </a>
@@ -73,15 +70,5 @@
      <a href="https://www.adobe.com/products/premiere.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"
             height="40" /> </a>
-     
- 
- ## GitHub Stats ##
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=badal02&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="badal's GitHub Stats" />
-</p>
-<p align="center">@badal02's GitHub Stats</p>
-
-<br/>
 
 
