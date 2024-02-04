@@ -1,11 +1,7 @@
-<p align="center">
- <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="GIF"/>
- </p>
-
 <h1 align="center">Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <p align="center">
-  <a href="https://github.com/badal02C"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;Btech+CSE;I+love+technology&center=true&width=380&height=45"></a>
+  <a href="https://github.com/badal02C"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science;UI/UX+Design;I+love+technology&center=true&width=380&height=45"></a>
 </p>
 
 - 👋 Hi, I’m badal khatiwara.
