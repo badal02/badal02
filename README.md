@@ -1,14 +1,13 @@
 <h1 align="center">Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <p align="center">
-  <a href="https://github.com/badal02C"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science;UI/UX+Design;I+love+technology&center=true&width=380&height=45"></a>
+  <a href="https://github.com/badal02C"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science;Backend+Development&center=true&width=380&height=45"></a>
 </p>
 
 - 👋 Hi, I’m badal khatiwara.
-- 🎓 I'm currently pursuing BTech CSE.
+- 🎓 I'm currently a backend developer at BhutanNDI.
 - 🧑🏽‍💻 I'm passionate about technology and always free to learn and stay updated about the tech world.
 - 📷 Interested in travelling, photography and filmmaking.
-- 📫 You can reach me out and check my journey in Likedin - [@Badal](https://www.linkedin.com/in/badal-khatiwara-6b7866222/) 
 
 
 ## Get in touch with me on: ##
@@ -50,21 +49,6 @@
             alt="Python" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40"
-            height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="Bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" width="40"
-            height="40" /> </a>
-    <a href="https://www.ubuntu.com" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40"
-            height="40" /> </a>
-     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="PhotoShop" width="40"
-            height="40" /> </a>
-     <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"
             height="40" /> </a>
 
 
